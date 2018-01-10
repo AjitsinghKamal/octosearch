@@ -14,10 +14,12 @@
     width: 70px;
 	height: 70px;
 	border-radius: 2px;
-    margin-right: 3rem;
+	margin-right: 3rem;
+	cursor: pointer;
 }
 
 .username {
 	color: blue;
 	font-size: 1.12rem;
+	cursor: pointer;
 }
