@@ -1,0 +1,24 @@
+.head {
+    padding: 2rem;
+    text-align: center;
+}
+
+.head .input {
+    display: flex;
+    align-items: center;
+}
+
+.input button {
+	margin-right: 1rem;
+}
+
+.head .title {
+    margin-bottom: 2rem;
+}
+
+.head .search-box {
+    border: 1px solid gray;
+    padding: 0.7rem;
+    width: 40%;
+    font-size: 0.8rem;
+}
